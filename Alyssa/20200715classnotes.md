@@ -2,5 +2,5 @@
 
 * Switch : SwitchTest.java
 * Array : ArrayTester.java
-* JavaAPI
+* JavaAPI document for Java programming
 [website](https://docs.oracle.com/javase/8/docs/api/)

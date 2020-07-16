@@ -1,8 +1,8 @@
 # 2020-07-09 classnotes
 
 * solve basic math problems
-under public class in one class,
-
+under public class in one class Math1.java,
+```java
 	int add(int x, int y) {
 		return x + y;
 	}
@@ -15,8 +15,9 @@ under public class in one class,
 	int div(int x, int y) {
 		return x/y;
 	}
-Then under public static void in another class,
-
+```
+Then under public static void in another class Tester.java,
+```java
 		____ math = new ____();
 		int z =math.add(10, 30);
 		System.out.println("10 + 30 = " + z);
@@ -27,7 +28,7 @@ Then under public static void in another class,
 		z =math.div(30, 10);
 		System.out.println("30/10 = " + z);
 	}
-
+```
 * Ascii Table
 [website](https://www.asciitable.com/)
 * Data Type tester
