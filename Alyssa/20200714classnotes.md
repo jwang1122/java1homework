@@ -3,7 +3,7 @@
 * If Else : in IfElseTest.java
 * Learn for loop : in LearnForLoop.java in com.huaxia.test
 
-```
+```java
 public class LearnForLoop {
 
 	public static void main(String[] args) {
