@@ -8,7 +8,7 @@ public class Math12023 {
 		System.out.println("03.  ");
 		System.out.println("04. 60/5 = " + (60/5));
 		System.out.println("05. 14 * 50 = " + (14*50));
-		System.out.println("06.  = " + ());
+		System.out.println("06.  = ");
 
 	}
 
