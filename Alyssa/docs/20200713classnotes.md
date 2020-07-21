@@ -2,7 +2,7 @@
 
 * create simple forloop
 
-```java 
+``` 
 public static void main(String[] args) {
 		ForLoopPractice obj = new ForLoopPractice();
 		obj.myloop();
